@@ -20,13 +20,13 @@ Features are normalized and encoded for effective model training.
 
 Visualizing correlation between features:
 
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 ## 📈 ROC Curve (Decision Tree)
 
 Performance of the Decision Tree classifier:
 
-![ROC Curve](images/roc.png)
+![ROC Curve](roc.png)
 
 ## 🧪 Model Accuracy
 - Random Forest Accuracy: ~85%
