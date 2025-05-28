@@ -1,7 +1,5 @@
 # 🚨 Fraud Detection System
 
-This project identifies fraudulent financial transactions using machine learning models like Decision Trees and Random Forests. It leverages transaction metadata to build an effective binary classification system for fraud detection.
-
 ## 📊 Dataset
 
 The dataset includes:
